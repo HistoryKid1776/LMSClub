@@ -1,0 +1,7 @@
+Day      Time                Subject
+Monday   9:10 - 10:15 AM     Science
+Monday   10:35-11:40 AM      Math
+Monday   12:10-1:15 AM       PE
+Tuesday  9:10-10:15 AM       Wheel
+Tuesday  10:35-11:40 AM      ELA
+Tuesday  12:10-1:15 AM       Social Studies
